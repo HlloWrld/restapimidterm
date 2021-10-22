@@ -1,0 +1,66 @@
+GET http://localhost:3000/courses
+
+### Create A Prodcut
+
+POST http://localhost:3000/courses
+Content-Type: application/json
+
+{
+    "name": "MDIA",
+    "courseNumber": 4450,
+    "time": "8:30-11:30",
+    "location": "DownTown"
+}
+
+### Get course by ID
+
+GET http://localhost:3000/courses/6172f75956e9c5a053287af6
+
+### Get course by ID
+
+GET http://localhost:3000/courses/616ca53362d84845eb36e432
+
+
+### Update course by id
+
+PATCH http://localhost:3000/courses/6172f75956e9c5a053287af6
+Content-Type: application/json
+
+{
+    "name": "imac 2019",
+    "courseNumber": 1999,
+    "time": "9-10"
+}
+
+### Update course by id
+
+PUT http://localhost:3000/courses/6172f75956e9c5a053287af6
+Content-Type: application/json
+
+{
+    "name": "BUSA",
+    "courseNumber": 1111,
+    "time": "11-12"
+}
+
+### Delete course by id
+
+DELETE http://localhost:3000/courses/616ca53362d84845eb36e432
+
+### Test
+GET http://localhost:3000/test/3452524354
+
+### Post
+POST http://localhost:3000/test
+Content-Type: application/json
+
+{
+    "name": "iMacPro",
+    "price": 23423
+}
+
+### Post
+POST http://localhost:3000/test
+Content-Type: application/application/x-www-form-urlencoded
+
+name=imac&price=443

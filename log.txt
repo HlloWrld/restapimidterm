@@ -1,0 +1,106 @@
+Action Type: Get All Products[]Fri, 22 Oct 2021 16:14:18 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:19:27 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:20:15 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:20:21 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:26 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:27 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:40 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:40 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:40 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:40 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:41 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:41 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:41 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:22:41 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:25:28 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:35:56 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:05 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:05 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:06 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:20 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:32 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:32 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:36:32 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:37:46 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:37:47 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:37:47 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:37:47 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:37:47 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 16:42:27 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:15:56 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:06 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:26 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:26 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:26 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:26 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:16:27 GMT
+Action Type: Create{"name":"COMP","courseNumber":3330,"time":"8:30-11:30","_id":"6172f2eb7f272ccff977bb40","__v":0}Fri, 22 Oct 2021 17:20:43 GMT
+Action Type: Get All Courses[{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:21:00 GMT
+Action Type: Get All Courses[{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:21:11 GMT
+Action Type: Get All Courses[{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:23:03 GMT
+Action Type: Create{"name":"MDIA","courseNumber":2255,"time":"2:30-5:30","_id":"6172f3a27f272ccff977bb46","__v":0}Fri, 22 Oct 2021 17:23:46 GMT
+Action Type: Get All Courses[{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330},{"_id":"6172f3a27f272ccff977bb46","name":"MDIA","courseNumber":2255}]Fri, 22 Oct 2021 17:23:49 GMT
+Action Type: Get All Courses[{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330},{"_id":"6172f3a27f272ccff977bb46","name":"MDIA","courseNumber":2255}]Fri, 22 Oct 2021 17:24:19 GMT
+Action Type: Delete{"_id":"6172f2eb7f272ccff977bb40","name":"COMP","courseNumber":3330,"time":"8:30-11:30","__v":0}Fri, 22 Oct 2021 17:24:34 GMT
+Action Type: DeletenullFri, 22 Oct 2021 17:24:50 GMT
+Action Type: Get All Courses[{"_id":"6172f3a27f272ccff977bb46","name":"MDIA","courseNumber":2255}]Fri, 22 Oct 2021 17:24:56 GMT
+Action Type: Delete{"_id":"6172f3a27f272ccff977bb46","name":"MDIA","courseNumber":2255,"time":"2:30-5:30","__v":0}Fri, 22 Oct 2021 17:25:02 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:25:10 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:27:03 GMT
+Action Type: Create{"name":"COMP","courseNumber":3330,"time":"8:30-11:30","_id":"6172f4d27815fdfee196d96b","__v":0}Fri, 22 Oct 2021 17:28:50 GMT
+Action Type: Get All Courses[{"_id":"6172f4d27815fdfee196d96b","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:28:51 GMT
+Action Type: Get All Courses[{"_id":"6172f4d27815fdfee196d96b","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:31:02 GMT
+Action Type: Get All Courses[{"_id":"6172f4d27815fdfee196d96b","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:31:03 GMT
+Action Type: Delete{"_id":"6172f4d27815fdfee196d96b","name":"COMP","courseNumber":3330,"time":"8:30-11:30","__v":0}Fri, 22 Oct 2021 17:31:08 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:31:20 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:33:25 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:33:30 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:33:30 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:33:43 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:34:01 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:34:58 GMT
+Action Type: Create{"name":"COMP","courseNumber":3330,"time":"8:30-11:30","location":"burnaby","_id":"6172f66c151dfb783732a35a","__v":0}Fri, 22 Oct 2021 17:35:40 GMT
+Action Type: Get All Courses[{"_id":"6172f66c151dfb783732a35a","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:35:49 GMT
+Action Type: Get All Courses[{"_id":"6172f66c151dfb783732a35a","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:35:59 GMT
+Action Type: Get All Courses[{"_id":"6172f66c151dfb783732a35a","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:10 GMT
+Action Type: Get All Courses[{"_id":"6172f66c151dfb783732a35a","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:14 GMT
+Action Type: Delete{"_id":"6172f66c151dfb783732a35a","name":"COMP","courseNumber":3330,"time":"8:30-11:30","location":"burnaby","__v":0}Fri, 22 Oct 2021 17:36:19 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:36:24 GMT
+Action Type: Get All Courses[]Fri, 22 Oct 2021 17:36:34 GMT
+Action Type: Create{"name":"COMP","courseNumber":3330,"time":"8:30-11:30","location":"burnaby","_id":"6172f6a4d5290a71ba178413","__v":0}Fri, 22 Oct 2021 17:36:36 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:39 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:40 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:40 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:40 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:40 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:41 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:36:41 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:37:59 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:00 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:00 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:00 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:09 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:18 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330}]Fri, 22 Oct 2021 17:38:36 GMT
+Action Type: Create{"name":"MDIA","courseNumber":4450,"time":"8:30-11:30","location":"DownTown","_id":"6172f75956e9c5a053287af6","__v":0}Fri, 22 Oct 2021 17:39:37 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"MDIA","courseNumber":4450}]Fri, 22 Oct 2021 17:39:39 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"MDIA","courseNumber":4450}]Fri, 22 Oct 2021 17:39:39 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"MDIA","courseNumber":4450}]Fri, 22 Oct 2021 17:39:39 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"MDIA","courseNumber":4450}]Fri, 22 Oct 2021 17:39:40 GMT
+Action Type: Update{"_id":"6172f75956e9c5a053287af6","name":"imac 2019","courseNumber":1999,"time":"9-10","location":"DownTown","__v":0}Fri, 22 Oct 2021 17:41:06 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"imac 2019","courseNumber":1999}]Fri, 22 Oct 2021 17:44:50 GMT
+Action Type: Update{"_id":"6172f75956e9c5a053287af6","name":"COMP","courseNumber":2255,"time":"2:30-5:30","location":"burnaby","__v":0}Fri, 22 Oct 2021 17:44:58 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"COMP","courseNumber":3330},{"_id":"6172f75956e9c5a053287af6","name":"COMP","courseNumber":2255}]Fri, 22 Oct 2021 17:45:04 GMT
+Action Type: Update{"_id":"6172f6a4d5290a71ba178413","name":"MDIA","courseNumber":1111,"time":"1:30-6:30","location":"DT","__v":0}Fri, 22 Oct 2021 17:45:34 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"MDIA","courseNumber":1111},{"_id":"6172f75956e9c5a053287af6","name":"COMP","courseNumber":2255}]Fri, 22 Oct 2021 17:45:39 GMT
+Action Type: Get All Courses[{"_id":"6172f6a4d5290a71ba178413","name":"MDIA","courseNumber":1111},{"_id":"6172f75956e9c5a053287af6","name":"COMP","courseNumber":2255}]Fri, 22 Oct 2021 17:49:12 GMT
+Action Type: Delete{"_id":"6172f6a4d5290a71ba178413","name":"MDIA","courseNumber":1111,"time":"1:30-6:30","location":"DT","__v":0}Fri, 22 Oct 2021 17:49:30 GMT
+Action Type: Get All Courses[{"_id":"6172f75956e9c5a053287af6","name":"COMP","courseNumber":2255}]Fri, 22 Oct 2021 17:49:33 GMT
+Action Type: Update{"_id":"6172f75956e9c5a053287af6","name":"MEDIA","courseNumber":1123,"time":"11-12","location":"burnaby","__v":0}Fri, 22 Oct 2021 17:50:54 GMT
+Action Type: Get All Courses[{"_id":"6172f75956e9c5a053287af6","name":"MEDIA","courseNumber":1123}]Fri, 22 Oct 2021 17:50:57 GMT
+Action Type: Create{"name":"COMP","courseNumber":3300,"time":"1-2","_id":"6172fa1502d3451c01d76a34","__v":0}Fri, 22 Oct 2021 17:51:17 GMT
+Action Type: Get All Courses[{"_id":"6172f75956e9c5a053287af6","name":"MEDIA","courseNumber":1123},{"_id":"6172fa1502d3451c01d76a34","name":"COMP","courseNumber":3300}]Fri, 22 Oct 2021 17:51:21 GMT
+Action Type: Update{"_id":"6172fa1502d3451c01d76a34","name":"BUSA","courseNumber":1111,"time":"4-6","__v":0}Fri, 22 Oct 2021 17:51:44 GMT
+Action Type: Get All Courses[{"_id":"6172f75956e9c5a053287af6","name":"MEDIA","courseNumber":1123},{"_id":"6172fa1502d3451c01d76a34","name":"BUSA","courseNumber":1111}]Fri, 22 Oct 2021 17:51:48 GMT
+Action Type: Update{"_id":"6172fa1502d3451c01d76a34","name":"COMP","courseNumber":1111,"time":"4-6","__v":0}Fri, 22 Oct 2021 17:52:03 GMT
+Action Type: Get All Courses[{"_id":"6172f75956e9c5a053287af6","name":"MEDIA","courseNumber":1123},{"_id":"6172fa1502d3451c01d76a34","name":"COMP","courseNumber":1111}]Fri, 22 Oct 2021 17:52:07 GMT
