@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js --unhandled-rejections=strict",
+    "start": "nodemon app.js",
     "version": "node --version"
   },
   "author": "",
